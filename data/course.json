@@ -10,10 +10,7 @@
     "content": [],
     "website": "test33"
   },
-  "course_image": {
-    "content": "675dcb6a-1f82-4cb5-94e2-797f1e2539c7",
-    "website": "test33"
-  },
+  "course_image": "",
   "course_title": "test33",
   "course_description": "page",
   "department_numbers": [
@@ -21,10 +18,7 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "33",
-  "course_image_thumbnail": {
-    "content": "b111e8ba-76d5-40d1-81b6-3b2d2f313d22",
-    "website": "test33"
-  },
+  "course_image_thumbnail": "",
   "learning_resource_types": [],
   "site_uid": "a31130e7-5cb0-4859-b236-370f0302d9db",
   "site_short_id": "test33"

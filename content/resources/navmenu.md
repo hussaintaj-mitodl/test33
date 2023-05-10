@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test33/navmenu.jpg
+file: /media/courses/33-test33-spring-2023/navmenu.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

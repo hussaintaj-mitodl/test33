@@ -7,6 +7,3 @@ videos:
   content: []
   website: test33
 ---
-{{< resource uuid="dd337350-3d7b-468c-8574-700f139ec284" >}}
-
-{{% resource_link "dd337350-3d7b-468c-8574-700f139ec284" "video-gallery-description.jpg" %}}

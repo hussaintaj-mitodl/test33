@@ -1,1 +1,9 @@
-leftnav: []
+leftnav:
+- identifier: 962044ac-e6d4-47de-9283-ad242a1e06e1
+  name: page
+  url: /resources/navmenu_jpg
+  weight: 10
+- identifier: 2085cab3-6556-425a-9eee-6023147dd9e6
+  name: list
+  url: /lists/reslist
+  weight: 20

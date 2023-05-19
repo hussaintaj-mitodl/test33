@@ -15,6 +15,7 @@ resources:
   - 950f2b46-760b-48ff-8c15-c9860ed69002
   - 7bf91fe4-1509-48f1-aea1-99c77c1b4d21
   - 55d76e67-6b12-413b-a095-1b4f707e89cd
+  - a38a68a4-7b86-4f2d-9aa6-4855b5cdad1c
   website: test33
 title: reslist
 uid: 2085cab3-6556-425a-9eee-6023147dd9e6

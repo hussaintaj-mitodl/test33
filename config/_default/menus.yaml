@@ -7,3 +7,7 @@ leftnav:
   name: list
   url: /lists/reslist
   weight: 20
+- identifier: 1802d62a-3923-4497-86e9-2d9fb1080bc5
+  name: sadda
+  url: /lists/dszsdadda
+  weight: 30

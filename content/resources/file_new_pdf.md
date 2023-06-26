@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/33-test33-spring-2023/file.mp4
-file_size: ''
-file_type: video/mp4
+file: /media/courses/33-test33-spring-2023/file_new.pdf
+file_size: 9450
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Other
-title: file.mp4
-uid: a38a68a4-7b86-4f2d-9aa6-4855b5cdad1c
+resourcetype: Document
+title: Untitled document
+uid: 2640572e-39d8-429e-b432-911e2b3297c6
 video_files:
   archive_url: ''
   video_captions_file: ''

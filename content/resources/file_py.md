@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/33-test33-spring-2023/file.py
+file: /media/courses/test33/file.py
+file_size: 6
 file_type: text/x-python-script
 image_metadata:
   caption: ''
@@ -12,8 +13,9 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: file.py
-uid: 55d76e67-6b12-413b-a095-1b4f707e89cd
+uid: b066d057-40ee-431f-bb21-58eb6d1c9e3d
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

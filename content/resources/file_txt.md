@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/33-test33-spring-2023/file.txt
+file: /media/courses/test33/file.txt
+file_size: 6
 file_type: text/plain
 image_metadata:
   caption: ''
@@ -12,8 +13,9 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: file.txt
-uid: 950f2b46-760b-48ff-8c15-c9860ed69002
+uid: ad27bb42-f92f-41b6-86e1-af207d38a5bc
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

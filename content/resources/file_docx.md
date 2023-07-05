@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/33-test33-spring-2023/file.docx
+file: /media/courses/test33/file.docx
+file_size: 6108
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
   caption: ''
@@ -12,8 +13,9 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: file.docx
-uid: 7bf91fe4-1509-48f1-aea1-99c77c1b4d21
+uid: 8892d666-c130-4834-b5bd-146a04542d04
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test33/file.mp4
+file: /media/courses/33-test33-spring-2023/file.mp4
 file_size: null
 file_type: video/mp4
 image_metadata:

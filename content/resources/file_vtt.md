@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test33/file.vtt
+file: /media/courses/33-test33-spring-2023/file.vtt
 file_size: null
 file_type: text/vtt
 image_metadata:

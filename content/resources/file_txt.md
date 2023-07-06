@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test33/file.txt
+file: /media/courses/33-test33-spring-2023/file.txt
 file_size: null
 file_type: text/plain
 image_metadata:

@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /media/courses/33-test33-spring-2023/file.vtt
+file_size: null
 file_type: text/vtt
 image_metadata:
   caption: ''
@@ -12,8 +13,9 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: file.vtt
-uid: d5bdfca0-cee8-4142-8612-8e3f6a05d7c5
+uid: f90e7f09-80aa-4d6f-b85d-0b8fb9e58aa7
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

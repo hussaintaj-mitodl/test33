@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /media/courses/test33/file.tex
-file_size: 6
+file_size: null
 file_type: text/x-tex
 image_metadata:
   caption: ''

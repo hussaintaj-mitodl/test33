@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /media/courses/test33/file.mp4
-file_size: 4303305
+file_size: null
 file_type: video/mp4
 image_metadata:
   caption: ''
